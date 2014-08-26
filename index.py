@@ -1,4 +1,11 @@
 #coding:utf8
+
+# author : recall704
+# email  : tk657309822@gmail.com
+# date   : 2014-08-26
+
+
+
 import logging
 import hashlib
 import time
