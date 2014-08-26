@@ -13,3 +13,9 @@ weixin-tornado-nginx
 author: recall704
 
 email:  tk657309822@gmail.com
+
+
+====
+测试公众号：
+
+![qr](http://recall704.qiniudn.com/2014/08/26/msfinfo_qr.jpg)
