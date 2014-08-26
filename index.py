@@ -9,7 +9,7 @@ import tornado.ioloop
 import tornado.web
 
 logging.basicConfig(level=logging.DEBUG)
-token = 'admin_7788_8888'
+token = 'weixintoken'
 reply_text = '''<xml>
                     <ToUserName><![CDATA[{toUserName}]]></ToUserName>
                     <FromUserName><![CDATA[{fromUserName}]]></FromUserName>
