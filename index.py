@@ -123,7 +123,7 @@ class MainHandler(tornado.web.RequestHandler):
         body = self.request.body
         bodyString = body.decode('utf-8')
         logging.info(bodyString)
-        # handle message them return
+        # handle message then return
         weixin = WeiXinMessageHandle(bodyString)
         resultMessage = weixin.handleMessage()
         self.set_status(200)
